@@ -5,7 +5,9 @@ go 1.23.0
 require (
 	github.com/BryanRSummit/LeadMailerServer v0.0.0-20240903211419-15ea152d9d03
 	github.com/gorilla/sessions v1.4.0
+	github.com/patrickmn/go-cache v2.1.0+incompatible
 	golang.org/x/oauth2 v0.23.0
+	golang.org/x/time v0.6.0
 	google.golang.org/api v0.196.0
 )
 
